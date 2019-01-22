@@ -4,6 +4,9 @@
 //
 //  Copyright © 2016 Udacity. All rights reserved.
 //
+// explanation of file: https://classroom.udacity.com/courses/ud585/lessons/6991272849/concepts/70072323710923
+
+
 
 import UIKit
 import AVFoundation
